@@ -8,38 +8,38 @@ Now i am eager to transition into Cybersecurity field, specially aiming to join 
 
 #  🛠️ CYBERSECURITY SKILLS
 
-*. SIEM Implementation and Log Analysis
-*. Network Traffic Monitoring and Attack Detection
-*. Security Automation with Shuffle SOAR
-*. Incident Respose Planning and Execution
-*. Case Management with TheHive
-*. Scripting and Automation for Threat Mitigation
+* SIEM Implementation and Log Analysis
+* Network Traffic Monitoring and Attack Detection
+* Security Automation with Shuffle SOAR
+* Incident Respose Planning and Execution
+* Case Management with TheHive
+* Scripting and Automation for Threat Mitigation
 
 # 🧰 KEY TOOLS & TECHNOLOGIES
 
 ## Network & Security Infrastructure
-*. Wireshark
-*. Encription
-*. Penetration
-*. Firewall
-*. Antivirus Solutions
+* Wireshark
+* Encription
+* Penetration
+* Firewall
+* Antivirus Solutions
    
 ## Endpoint Security
-*. Microsoft Defender for Endpoint
-*. Kaspersky Endpoint Security Cloud
-*. Sophos Intercept X
-*. Symantec Endpoint Protection
+* Microsoft Defender for Endpoint
+* Kaspersky Endpoint Security Cloud
+* Sophos Intercept X
+* Symantec Endpoint Protection
 
 ## SIEM (Security Information and Event Management)
-*. Microsoft Sential
-*. Splunk
-*. Logpoint
-*. SolarWinds Security Event Manager
+* Microsoft Sential
+* Splunk
+* Logpoint
+* SolarWinds Security Event Manager
 
 ## Security Operations & Other
 * TheHive (Case Management)
 * Shuffle SOAR (Security Orchestration, Automation, and Response)
 
 ## 📄 Certifications
-*. Foundation of Cybersecurity by Google
-*. SecurityX - CompTIA
+* Foundation of Cybersecurity by Google
+* SecurityX - CompTIA
