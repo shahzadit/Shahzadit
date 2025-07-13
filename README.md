@@ -16,20 +16,20 @@ Now i am eager to transition into Cybersecurity field, specially aiming to join 
 6. Scripting and Automation for Threat Mitigation
 
 # TOOLS
-##Network
+## Network
 1. Wireshark
 2. Suricata
 3. Zeek
-# ENDPOINT
+## ENDPOINT
 1. Microsoft Defender for Endpoint
 2. Kaspersky Endpoint Security Cloud
 3. Sophos
 
-# SIEM
+## SIEM
 1. Microsoft Sential
 2. Splunk
 3. Elastic
 
-# CERTIFICATIONS
+## CERTIFICATIONS
 1. Foundation of Cybersecurity by Google
 2. SecurityX (CASP) - CompTIA 
