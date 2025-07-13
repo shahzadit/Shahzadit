@@ -18,18 +18,23 @@ Now i am eager to transition into Cybersecurity field, specially aiming to join 
 # TOOLS
 ## Network
 1. Wireshark
-2. Suricata
-3. Zeek
+2. Encription
+3. Penetration
+4. Firewall
+5. Antivirus
+   
 ## ENDPOINT
 1. Microsoft Defender for Endpoint
 2. Kaspersky Endpoint Security Cloud
-3. Sophos
+3. Sophos Intercept X
+4. Symantec Endpoint Protection
 
 ## SIEM
 1. Microsoft Sential
 2. Splunk
-3. Elastic
+3. Logpoint
+4. SolarWinds Security Event Manager
 
 ## CERTIFICATIONS
 1. Foundation of Cybersecurity by Google
-2. SecurityX (CASP) - CompTIA 
+2. SecurityX (CASP) - CompTIA
