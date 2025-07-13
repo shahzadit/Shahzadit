@@ -1,7 +1,7 @@
 # Hello, I'm Shahzad Alam 👋
 
 <a href="https://www.linkedin.com/in/shahzad-alam-21b5829/" target="_blank">
-  <img src="path/to/linkedin_icon.png" alt="LinkedIn Profile" style="width: 30px; height: 30px;">
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQA…WVlZWVlZWVlZWVlb39T8N0tVLMwBrkAAAAABJRU5ErkJggg==" alt="LinkedIn Profile" style="width: 30px; height: 30px;">
 </a>
 
 **shahzadit/Shahzadit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
